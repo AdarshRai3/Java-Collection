@@ -39,3 +39,6 @@ public class CollectionArrayList {
         
     }
 }
+//Vector is similar to Arraylist but there are few differences
+//Arraylist is asynchronised whereas vector is synchronised means in vectors ,only one thread can access at a time whereas Arraylist is multi-thread that means multiple threads can access at a time.
+//Arraylist is faster than Vectors.

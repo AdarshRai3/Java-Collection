@@ -8,4 +8,7 @@ public class CollectionLinkedList {
         }
         System.out.println(list2);
     }
+
+    
+
 }
