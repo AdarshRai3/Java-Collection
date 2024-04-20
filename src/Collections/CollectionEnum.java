@@ -34,3 +34,4 @@ public class CollectionEnum  {
     }
 }
 //Enum are group of variable that cannot be changed.
+//Examples Enum can be week and month there are constant values for that. there will be only 7 days in week and 12 month which have constant names
